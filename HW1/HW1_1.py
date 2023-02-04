@@ -11,3 +11,4 @@ else:
         sum = sum + a % 10
         a = a // 10
     print("Ответ: ", sum)
+
